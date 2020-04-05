@@ -1,4 +1,4 @@
-from trees_and_nodes import Node
+from Objects.trees_and_nodes import Node
 
 class LinkedListNode(Node):
 
